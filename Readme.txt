@@ -1,0 +1,4 @@
+PeanoNumberApp.CSharp is a C# lang implementation of the object oriented recursion 
+example from an article by Kent Beck;
+
+http://www.macqueen.us/smalltalkReport/ST/ST09/27be.pdf
